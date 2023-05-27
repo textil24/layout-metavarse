@@ -1,4 +1,4 @@
-# Верстка Metavarse
+# Верстка Metaverse
 
 ![Без имени](https://github.com/textil24/layout-metavarse/assets/77049921/4b817e26-3318-4962-bd4b-ad0c7e0844c2)
 
